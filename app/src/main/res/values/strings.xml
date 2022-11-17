@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">200012011022_practical_9-mad</string>
+        <string name="app_title"><b>SMS App - 20012011022</b></string>
+        <string name="sms_text_string">Your SMS(s)</string>
+        <string name="mobile_text_string">Enter Mobile No</string>
+        <string name="type_message_text_string">Type your Message</string>
+        <string name="send_sms_string">Send SMS</string>
+        <string name="all_sms_string">All SMS(s)</string>
+        <string name="send_your_sms_string">Send your SMS 📨</string>
+        <string name="send_message_btn_string">Send Message</string>
+        <string name="contact_number_string">Contact Number</string>
+        <string name="message_text_string">Message</string>
+    </resources>
